@@ -7,8 +7,9 @@ Thank you for inviting me to your meeting.  Did you know that since I became an 
 I hope you'll understand then why I am declining this meeting. To be more specific, I am declining it for one or more of the following reasons:
 * No meeting agenda: Your invitation doesn't state the agenda and/or objectives of this meeting.
 * The meeting length is not justified: If you scheduled this as an hour-long meeting, could it be a half-hour meeting instead?  If it's a half-hour meeting, could it be 15 minutes?
-  * You could be even more respectful of attendees time by using "Speedy meetings" in google calendar
+  * You could be even more respectful of attendees time by using [Speedy meetings](http://gmailblog.blogspot.com/2011/06/change-google-calendars-default-meeting.html) in google calendar
 * The intended output of this meeting is a document. Please create the document first, give me a chance to review it and/or input any knowledge I have, and then we can have a much shorter meeting to discuss any open items.
+* This appears to be a Status Update meeting, these types of meetings are a [known waste of time](http://www.inc.com/geoffrey-james/update-meetings-just-waste-time.html). Please send a brief, written status update (or request one) - a follow-up meeting can be scheduled if there are open questions or discussion items.
 * I already have 4 or more hours of meetings booked for this day.  Please be considerate of my time and other responsibilities by rescheduling to a different day.
 * You have scheduled over the only break I might have between blocks of other meetings.
 * You have not given me enough time to prepare for this meeting
